@@ -18,7 +18,7 @@ This project investigates the mean price distributions published by AirBnB for C
 In this project, a Jupyter notebook includes all the analysis, and the data used are stored in the 'data' subfolder.
 
 
-## How to Interact with your project
+## How to Interact with this project
 Can use the notebook to run to regenerate the plots.
 You can use the following Medium post to see an overview of the things found in this study.
 
